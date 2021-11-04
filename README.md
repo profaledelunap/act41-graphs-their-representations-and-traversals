@@ -1,5 +1,4 @@
-![Tec de Monterrey](images/logotecmty.png)
-# Act 4.2 - Grafos: Algoritmos complementarios
+# Act 4.1 - Grafos: Sus representaciones y sus recorridos
 
 ## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
 En este repositorio encontrarás el archivo "activity.h" que deberás modificar para el desarrollo de esta actividad. Deberás colocar en la parte superior, en comentarios, tus datos. Por ejemplo:
