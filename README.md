@@ -12,7 +12,7 @@ En este repositorio encontrarás el archivo "activity.h" que deberás modificar 
 
 Diseña e implementa en forma <ins>forma individual</ins> una aplicación que:
 
- 1. Guarde los vértices y arcos de un grafo en una lista de vértices (lista de listas encadenadas).
+ 1. Guarde los vértices y arcos de un grafo dirigido en una lista de vértices (lista de listas encadenadas).
 
 2. Recorra el grafo en profundidad (DFS) dado un nodo de inicio y uno de fin.
 
